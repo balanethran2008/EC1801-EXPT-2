@@ -78,6 +78,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
+<img width="1917" height="1028" alt="Screenshot 2026-11-17 080333" src="https://github.com/user-attachments/assets/511d2b50-4059-425e-b099-151d8a2d7798" />
 
 
  
